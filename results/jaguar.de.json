@@ -1,0 +1,1202 @@
+{
+  "total": 225,
+  "uncrawled": 0,
+  "with.tertiary-link": [
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/personal-contract-hire-pch.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/ballonfinanzierung.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/specialist-sales.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/choose-your-engine/jaguar-diesel-exhaust-fluid.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/choose-your-engine/jaguar-petrol-and-diesel-engines.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/glossary.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/software-update/index.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/amazon-alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/software-updates/pivi.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/diesel-exhaust-fluid.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/software-update/alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    }
+  ],
+  "with.tertiary-cta": [
+    {
+      "href": "https://jaguar.de/retailer-locator/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-cta": [
+    {
+      "href": "https://jaguar.de/retailer-locator/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-link": [],
+  "with.secondary-cta:not(button)": [],
+  "with.secondary-link:not(button)": [
+    {
+      "href": "https://jaguar.de/retailer-locator/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/i-pace/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-pace/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/e-pace/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xe/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xf/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-type/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/special-vehicle-operations/f-type-zp-edition.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/special-vehicle-operations/f-pace-svr-575-edition.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/special-vehicle-operations/f-pace-svr-edition-1988.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/special-vehicle-operations/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/personal-contract-hire-pch.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/ballonfinanzierung.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/konfigurator/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/versicherungen/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/gebrauchtwagen/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/vehicle-range/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/fleet-after-sales.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/emergency-services.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/fleet-and-business/contact-us.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-live/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/broschuere-anfragen/index.html",
+      "count": 20,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/choose-your-engine/jaguar-diesel-particulate-filter.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/handbuecher/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/index.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/software-updates/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/subscriptions.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/remote-app.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/emergency-and-security-features.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/map-updates/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/ev-ownership/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/ev-ownership/setting-up-your-ev.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/ev-ownership/how-to-charge-your-ev.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/ev-ownership/phev-driving-modes.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/servicepromise.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/fahrzeugwartung/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/winter-wheels-and-tyres.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/garantien/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/5-year-warranty.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/garantien/neufahrzeuge.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/garantien/teile-zubehoer.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/garantien/lack-korrosion.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/kontakt/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/rettungskarten.html",
+      "count": 25,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/jaguar-unternehmen/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/awards.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/jaguar-classic/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-racing/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-racing/race-calendar-and-standings.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-racing/our-partners.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/suv-cars.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/towing.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/rechtliche-hinweise.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/terms-conditions.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/i-pace/explore/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/i-pace/models/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/i-pace/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-pace/explore/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-pace/models/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-pace/specifications/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-pace/offers.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/e-pace/explore/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/e-pace/models/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/e-pace/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xe/models/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xe/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xf/models/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/xf/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-type/models/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/f-type/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/vehicles.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/all-electric.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/cost-of-owning-an-electric-car.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/home-charging.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/public-charging.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/electric-cars/how-to-charge.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/jaguar-classic/authentic-cars/e-type-zp-collection.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/faq.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/versicherungen.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/choose-your-engine/jaguar-petrol-and-diesel-engines.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/plug-in-hybrid/charging.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/concept-cars/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/market-selector.html",
+      "count": 1,
+      "components": [
+        "marketselector"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/sitemap.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/zubehoer/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/choose-your-engine/changes-in-vehicle-emission-standards.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/handbuecher/i-guide.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/terms-and-conditions.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/touch-pro-setup-guide/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/map-updates/pivi.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/touch-pro-setup-guide/connecting-to-inbuilt-apps.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/pivi-pro-setup-guide/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/software-updates/touch-pro.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/infotainment-systems/infotainment/pivi-pro-setup-guide.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/inspektion/wartungsintervalle.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/inspektion/vertragspartner.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/inspektion/wartungsanzeige.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol/connectivity/remote.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-racing/racing-dna.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/leasing-und-finanzierungsangebote/privatkunden/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/jaguar-modelle/e-pace/models.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/jaguar-classic/authentic-cars/e-type-zp-collection/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/ueber-jaguar/jaguar-classic/authentic-cars/e-type-zp-collection/goodwood.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-user-guide/incontrol-protect.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol/infotainment.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-user-guide/index.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-support/terms-and-conditions.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/software-update/automatic-software-updates.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/kompetenzzentren.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/jaguar-verfahren.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/original-karosserieteile.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/garantieurkunde.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/service-und-zubehor/service-garantien/karosserie-lack-programm/techniker.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol/connectivity/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol/driver-assistance/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-user-guide/incontrol-apps.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-user-guide/incontrol-secure.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.de/incontrol/incontrol-user-guide/sim-card-installation.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    }
+  ]
+}

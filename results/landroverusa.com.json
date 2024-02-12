@@ -1,0 +1,2665 @@
+{
+  "total": 443,
+  "uncrawled": 0,
+  "with.tertiary-link": [
+    {
+      "href": "https://landroverusa.com/ownership/software-update/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/siriusxm/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/software-update/alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/incontrol-troubleshooting.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/stolen-vehicle-faq.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/faq.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/remote-protect-faq.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/contact-us/faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/infotainment-systems/pivi/faqs.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/bluetooth-connectivity.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    }
+  ],
+  "with.tertiary-cta": [
+    {
+      "href": "https://landroverusa.com/current-offers/discovery-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/range-rover-velar-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/range-rover-evoque-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/defender-offers.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/discovery-sport-offers.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    }
+  ],
+  "withbutton.secondary-cta": [],
+  "withbutton.secondary-link": [],
+  "with.secondary-cta:not(button)": [],
+  "with.secondary-link:not(button)": [
+    {
+      "href": "https://landroverusa.com/range-rover/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/software-update/index.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/warranty.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/vin-recall.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/privacy-policy.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ccpa/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/terms-and-conditions.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/accessibility/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/social-media.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/disclaimers.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "configuratorprompt",
+        "carousel",
+        "accolade",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade",
+        "nameplatevisualiser",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-130/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-23my/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "configuratorprompt"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-110/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-90/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-sport/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "nameplatevisualiser"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "configuratorprompt",
+        "accolade",
+        "nameplatevisualiser"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-23my/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/sv-vehicles/range-rover-sv.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/sv.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/sv-bespoke/new-range-rover-sv-bespoke.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/sv-bespoke/sv-bespoke-paint.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/land-rover-financial-group.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/finance-calculator.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/build-your-own/index.html",
+      "count": 25,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/certified-pre-owned/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/certified-pre-owned/offers.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/comparison-tool/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/shopping-tools/calculate-trade-in-value.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/corporate-sales/fleet-and-business-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/owner-stories.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/infotainment.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/virgin-galactic.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/phev/setting-up-your-phev.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/phev/how-to-charge.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/phev/driving-modes.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/genuine-parts/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/airbag-recall/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/contact-us.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/stories/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/range-rover-house.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/index.html",
+      "count": 25,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/destination-defender.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/deer-valley.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/range-rover-leadership-summit.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/equestrian-usef-games.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/trek-off-road-competition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/trophy-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/amazon-alexa-builtin.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/red-cross/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-surf-lodge.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery/explore.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/range-rover-sport-sv/boundary-pushing-innovation.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/special-vehicle-operations/sv-specialists.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/keep-me-informed.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/park-assist.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/insurance/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/genuine-parts.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/airbag-recall.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/phev/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/wellstoried/alice-womble.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/wellstoried/dr-joel-moskowitz.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/wellstoried/erin-true.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/wellstoried/share-your-story.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/connectivity.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/siriusxm/index.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/driver-assistance.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-touch-pro.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/stolen-vehicle-locator.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-apps.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/installing-apps.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-wi-fi.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/connected-navigation.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-protect.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/activating-protect.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-support.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "article",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/software-update/alexa.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/vehicle-warranty.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/castrol-oil.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/prepaid-maintenance.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/contact-us/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/lr-experience-drives/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/manufacturing-tours/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/contact-us/contact-us.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/new-range-rover-sport/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/range-rover-family.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/discovery-family.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/defender-family.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/phev/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/shopping-tools/mobile-apps.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/guides-and-manuals/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/index.html",
+      "count": 20,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/market-selector/index.html",
+      "count": 1,
+      "components": [
+        "marketselector"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "configuratorprompt",
+        "carousel",
+        "accolade",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/models.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/explore.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover/sv.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/explore.html",
+      "count": 22,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/models.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-sport/personalization.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/suv.html",
+      "count": 19,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar/explore.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar/options-and-accessories.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my/explore.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my/models.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my/specifications.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-velar-24my/personalization.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade",
+        "nameplatevisualiser",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/explore.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/personalization.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-130.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-130/explore.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/models.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/specifications.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/personalization/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-130/specifications-quick-link.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-110/specifications-quick-link.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-23my/defender-75th-limited-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-23my/models.html",
+      "count": 23,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-23my/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-110.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-110/explore.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/content/lrdx/published-sites/us/en/defender/defender/specifications.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-90.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-90/explore.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender-90/specifications-quick-link.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-sport/explore.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-sport/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-sport/personalization.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "configuratorprompt",
+        "accolade",
+        "nameplatevisualiser"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-23my.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-23my/models.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/discovery/discovery-23my/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/discovery-offers.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/driving-a-phev.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/charging/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/cost-savings.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/range.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/battery-technology.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "verticalslider",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/sustainability.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/caring-for-your-paint-finish/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/range-rover-velar-offers.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/range-rover-evoque-offers.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/defender-offers.html",
+      "count": 37,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/current-offers/discovery-sport-offers.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/range-rover-velar.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/range-rover-evoque.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/defender.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/discovery-sport.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/schedule-a-test-drive/discovery.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/certified-pre-owned.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/certified-pre-owned/warranty-certification.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/corporate-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/incontrol-troubleshooting.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/stolen-vehicle-faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/4xfar.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/infotainment-systems/pivi/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/charging/home-charging.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/electric/charging/public-charging.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/genuine-parts/remanufactured-genuine-parts.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/genuine-parts/new-genuine-parts.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/airbag-recall/espanol.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/social-responsibility/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/the-impossible-journey.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/terrain-response.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/classic-experiences/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/keep-me-informed-driving-experiences.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/experience-drives-summary.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/stories/john-mayer-goes-outside.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/stories/range-rover-history.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/animal-welfare.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/community-services.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/search-and-rescue.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/veterans-outreach.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/outdoor-accessibility.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/vote/honorees.html",
+      "count": 21,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/defender-service-awards/official-contest-rules.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/trophy-edition-terms-and-conditions.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/trophy-tnc.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/red-cross.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/red-cross/queens-defender.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/red-cross/humanitarians-in-action.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/red-cross/tested-by-red-cross-experts.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/namibia-safari.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/skeleton-coast-self-drive.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/botswana-safari.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/faq.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/incontrol-maps-updates.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/faq/remote-protect-faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/china.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/russia.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/middle-east.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/south-africa.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/europe.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/scandinavia.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/uk.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/find-a-centre/north-america.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/contact-us/faq.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/destination-defender.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/range-rover-sv-carmel-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/defender-trophy-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/land-rover-defender-service-awards.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/defender-130.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/new-range-rover-sport.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/defender-30th-anniversary-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/us-equestrian.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/virgin-galactic-sweepstakes.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/amazon-alexa.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/new-range-rover-extended-range.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/range-rover-leadership-summit.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/new-range-rover-world-premiere.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/land-rover-first-US-trophy-adventure-off-road-competition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/land-rover-reveals-new-discovery-metropolitan-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/trek-2021-winner-press-release-oct-6.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/land-rover-inaugural-defender-above-and-beyond-service-awards-winners-announced-at-live-virtual-event.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/lindsey-vonn-tests-her-adventure-skills-to-kick-off-the-land-rover-trek-2021-off-road-competion-for-us-retailers.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/our-story/news/new-behind-the-scenes-footage-shows-range-rover-sport-svr-preparing-to-make-an-impact-in-new-james-bond-film.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-range-rover.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-range-rover-sport.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-range-rover-velar.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/specifications.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-defender.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/ultimate-personalization/help-me-choose.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-discovery.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/keep-me-informed-evoque.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-discovery-sport.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/infotainment-systems/pivi/faqs.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/adventure-travel/sub-sahara-africa/mountain-wilderness-self-drive.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/lr-experience-drives/adventure-travel-moab.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/defender/trophy-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/defender/trophy-edition-terms-and-conditions.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/defender/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/experiences/events-and-sponsorships/us-equestrian-federation-pack.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/vehicles/new-range-rover/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "configuratorprompt",
+        "carousel",
+        "accolade",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/range-rover/range-rover-evoque/models.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/defender/defender/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/approved-used/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/families/range-rover.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/families/discovery.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/families/defender.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/your-choice-of-power.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/phev.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/our-responsible-future.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/fleet-after-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/international-and-national-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/emergency-services.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/military-personnel-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/fleet-and-business/land-rover-embassy-sales.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/infotainment/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/servicepromise.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/accessories/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/parts-warranty.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/the-invictus-games.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/humanitarian-and-conservation/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/sailing.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/equestrian.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/sponsorship/adventure/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/privacy-policy/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/cookie-policy/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/request-a-quote-range-rover-evoque.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/winter-driving/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/holidays/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/winter-driving/winter-driving-tips.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/incontrol-protect.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/mud-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/sand-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/water-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/hills-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/rocks-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/4x4-off-road-driving-tips/off-road/gravel-driving.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/sim-card-installation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/incontrol-pro-services.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/incontrol-apps.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/incontrol-secure.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landroverusa.com/ownership/incontrol/incontrol-user-guide/bluetooth-connectivity.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    }
+  ]
+}

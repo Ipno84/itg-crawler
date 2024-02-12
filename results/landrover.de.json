@@ -1,0 +1,1923 @@
+{
+  "total": 296,
+  "uncrawled": 0,
+  "with.tertiary-link": [
+    {
+      "href": "https://landrover.de/ownership/software-update/index.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/pch.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/ballonfinanzierung.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/faq.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/specialist-sales.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/sota-upgrade.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/automatic-software-update.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/faq.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/glossary.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    }
+  ],
+  "with.tertiary-cta": [
+    {
+      "href": "https://landrover.de/national-dealer-locator.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/specialist-centres.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-cta": [
+    {
+      "href": "https://landrover.de/national-dealer-locator.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/specialist-centres.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-link": [],
+  "with.secondary-cta:not(button)": [],
+  "with.secondary-link:not(button)": [
+    {
+      "href": "https://landrover.de/range-rover/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/index.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/index.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/index.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/book-online-service.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/nachhaltigkeit/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/contact-us/impressum.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/contact-us/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/privacy-policy/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/cookie-policy/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/terms-and-conditions.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/allgemeine-einkaufsbedingungen.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landrover.de/international-standards.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/national-dealer-locator.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/index.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "configuratorprompt",
+        "accolade",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-velar/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-evoque/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-130/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-110/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-90/index.html",
+      "count": 13,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery-sport/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "configuratorprompt",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/sv-vehicles/range-rover-sv.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/sv.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/sv-bespoke/new-range-rover-sv-bespoke.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/sv-bespoke/sv-bespoke-paint.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/offers.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/offers.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/pch.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/ballonfinanzierung.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/versicherungen/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/faq.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/approved-used/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/vehicle-range/index.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/fleet-after-sales.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/defender-akip-protection.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/emergency-services.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/specialist-sales.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/international-and-national-sales.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/phev.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/wltp/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/technology/four-wheel-drive.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/find-your-vehicle/mobility.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/build-your-own/index.html",
+      "count": 30,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/customer-club/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/takeback-and-recycle/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/phev/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/phev/setting-up-your-phev.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/phev/driving-modes.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/servicepromise.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/fahrzeugwartung/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/service-und-wartung/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/winter-wheels-and-tyres.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/caring-for-your-vehicle/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/5-year-warranty/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/europa-service.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/emergency.html",
+      "count": 36,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/awards.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/technology/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/environmental-responsibility.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/alexa/amazon-alexa-builtin.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/007-elements.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/equestrian.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/the-invictus-games.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/rugby/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/humanitarian-and-conservation/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/adventure/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/sailing.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/how-to-order-online/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/new-range-rover-by-sv-bespoke.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/5-year-warranty/5yw-range-rover.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-hard-top/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/marine-blue-le.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/5-year-warranty/5yw-defender.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/5-year-warranty/5yw-discovery.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/range-rover-sport-sv/boundary-pushing-innovation.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/fleet-and-business/our-responsible-future.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/download-a-brochure/index.html",
+      "count": 24,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/phev/how-to-charge.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/guides-and-manuals/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/incontrol-maps-updates.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/driver-assistance.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/overview.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/support/legal-and-data-privacy.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/alexa.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/sota-upgrade.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/software-update/automatic-software-update.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/personal-offroad-experience.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/online-kalkulator/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/explore.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/models.html",
+      "count": 13,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover/sv.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/explore/index.html",
+      "count": 15,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/personalisation/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/private-offers.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-velar/explore.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-velar/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-velar/options-and-accessories.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-velar/private-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-evoque/explore.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-evoque/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-evoque/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-evoque/private-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-130.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-130/explore.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/models.html",
+      "count": 34,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/specifications.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/personalisation/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/private-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-110/explore.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/defender-75th.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-90/explore.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender-90/private-offers.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery-sport/explore.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery-sport/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery-sport/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery-sport/private-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery/explore.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery/models-and-specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/discovery/discovery/personalisation.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/driving-a-phev.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/suv.html",
+      "count": 32,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/charging/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/cost-savings.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/range.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/battery-technology.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "verticalslider",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/sustainability.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/special-vehicle-operations/specialist-centres.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/caring-for-your-paint-finish/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/personal-offers.html",
+      "count": 23,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/leasing.html",
+      "count": 19,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/versicherungen/restschuldversicherung.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/versicherungen/flatrate.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/versicherungen/gap-plus.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/index.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/technology/incontrol.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/technology/hybrid.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/find-your-vehicle/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/charging/public-charging.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/warranty.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/range-rover-reborn.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/product-responsibility.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/hilft-helfen/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/child-aid-network.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/red-cross-and-red-crescent.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/born-free-foundation-article.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/humanitarian-and-conservation/red-cross.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/humanitarian-and-conservation/royal-geographical-society-with-ibg.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/defender-works-v8-islay-edition.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/defender-works-v8-trophyII.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/defender-works-v8-trophy.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/jaguar-land-rover-classic-works.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/classic-center-essen.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/genuine-parts.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/land-rover-classic/owner-services.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/sponsorship/humanitarian-and-conservation/tusk.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/vehicles/discovery/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "configuratorprompt",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/namibia-safari.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/skeleton-coast-self-drive.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/botswana-safari.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/adventure-travel/sub-sahara-africa/faq.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/defender-130/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "fullframecarousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/defender-hardtop.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/shopping-tools/apps.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/families/range-rover.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/families/discovery.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/families/defender.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/glossary.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/land-rover-experience/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/finance/finanzierungskonzepte/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/market-selector/index.html",
+      "count": 1,
+      "components": [
+        "marketselector"
+      ]
+    },
+    {
+      "href": "https://landrover.de/electric/charging/home-charging.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/infotainment/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/meridian-sound-systems/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/incontrol-protect.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/sim-card-installation.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/wi-fi-hotspot.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/incontrol-pro-services.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/pro-services.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/incontrol-apps.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/incontrol-apps.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-user-guide/incontrol-secure.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/kmi.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/explore/innovation-in-motion.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/subscribe.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/personalisation.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/vehicles/defender/defender-75th.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/defender/defender/ultimate-personalisation/help-me-choose/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/incontrol-remote-premium.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/connectivity/online-media.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/ownership/incontrol/incontrol-secure.html",
+      "count": 2,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/hilft-helfen/lr-hilft-helfen.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/hilft-helfen/red-cross.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://landrover.de/explore-land-rover/responsibility/hilft-helfen/3d-printing.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/china.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/russia.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/middle-east.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/south-africa.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/europe.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/scandinavia.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/uk.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/experiences/find-a-centre/north-america.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/models.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://landrover.de/range-rover/range-rover-sport/specifications.html",
+      "count": 1,
+      "components": [
+        "footercontainer"
+      ]
+    }
+  ]
+}

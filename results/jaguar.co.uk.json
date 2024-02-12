@@ -1,0 +1,1687 @@
+{
+  "total": 308,
+  "uncrawled": 0,
+  "with.tertiary-link": [
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/vehicle-subscription-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/maintenance/maintaining-low-diesel-emissions.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/software-update/alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/maintenance/maintaining-low-diesel-emissions.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/touch-faqs.html",
+      "count": 11,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/pivi-faqs.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/jaguar-remote-skill.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/amazon-alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/software-updates/pivi.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/software-updates/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/system-settings-and-controls-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/entertainment-and-media-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/apps-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/navigation-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/security-and-safety-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/wi-fi-connectivity-and-data-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/software-updates-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/subscriptions-faqs.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/incontrol/pivi/faqs.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/pivi/faqs.html",
+      "count": 7,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    }
+  ],
+  "with.tertiary-cta": [
+    {
+      "href": "https://jaguar.co.uk/national-dealer-locator.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-cta": [
+    {
+      "href": "https://jaguar.co.uk/national-dealer-locator.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    }
+  ],
+  "withbutton.secondary-link": [],
+  "with.secondary-cta:not(button)": [],
+  "with.secondary-link:not(button)": [
+    {
+      "href": "https://jaguar.co.uk/national-dealer-locator.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "retailerlocator"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "nameplatevisualiser",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-pace/index.html",
+      "count": 13,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "nameplatevisualiser",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/e-pace/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "nameplatevisualiser",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xe/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xf/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-type/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-benefits.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/special-vehicle-operations/f-type-zp-edition.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/special-vehicle-operations/f-pace-svr-575-edition.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/special-vehicle-operations/jaguar-f-pace-svr-edition-1988.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/special-vehicle-operations/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/jaguar-classic/authentic-cars/e-type-zp-collection/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/jaguar-classic/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/how-to-order-online/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/insurance.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/index.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/personal-contract-purchase.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/business-offers/index.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/finance-products/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/existing-customers/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/vehicle-subscription.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/offers-and-finance/vehicle-subscription-faqs.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/how-to-order-online/build-and-order-online.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/roof-accessories.html",
+      "count": 34,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/my-jaguar.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/index.html",
+      "count": 20,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/emergency-and-security-features.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/handbooks-guides/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/0-finance-on-aftersales.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/subscriptions.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/remote-app.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/software-updates/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/map-updates/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/ev-ownership/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/ev-ownership/setting-up-your-ev.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/ev-ownership/how-to-charge-your-ev.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/ev-ownership/phev-driving-modes.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/ev-ownership/maximise-your-battery-life.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/servicing/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/servicing/book-a-service-or-mot-online.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/servicing/jaguar-service-plans.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/maintenance/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/maintenance/genuine-parts/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/home-charging.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/jaguar-icons.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/experience-jaguar/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/partnerships/wimbledon/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/partnerships/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-racing/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-racing/race-calendar-and-standings.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-racing/our-partners.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-racing/racing-dna.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/the-out.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/secure-tracker.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/saloon-cars.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/suv-cars.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "fullframecarousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/towing.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/x-type.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/s-type.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/index.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/warranties-roadside-assistance/standard-extended-warranty.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/contact-us/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/explore/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/models/index.html",
+      "count": 13,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/offers/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-pace/explore/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-pace/models/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-pace/specifications/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-pace/offers/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/e-pace/explore/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/e-pace/models/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/e-pace/offers/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/e-pace/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xe/models/index.html",
+      "count": 11,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xe/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xe/offers/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/subscriptions/terms-and-conditions.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xf/models/index.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xf/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/xf/offers/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/f-type/models/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/vehicles.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/all-electric.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/cost-of-owning-an-electric-car.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/public-charging.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/electric-cars/how-to-charge.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-f-pace.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-e-pace.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-i-pace.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-f-type.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-xe.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-xf.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/approved-used/approved-xj.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "verticalslider"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/responsibility/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/jaguar-classic/authentic-cars/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/jaguar-classic/authentic-cars/e-type-zp-collection/goodwood.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/build-yours/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/tow-bars.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/bike-carriers.html",
+      "count": 17,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/side-steps.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/accessories/pet-accessories.html",
+      "count": 32,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/index.html",
+      "count": 14,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/about-jaguar/concept-cars/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/incontrol/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/maintenance/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/servicing/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/handbooks-guides/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/warranties-roadside-assistance/standard-extended-warranty.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/incontrol/touch/support/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/experience-jaguar/in-the-driving-seat/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/experience-jaguar/factory-tours/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/experience-jaguar/in-the-driving-seat/iconic-experiences.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/market-selector.html",
+      "count": 1,
+      "components": [
+        "marketselector"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/sitemap.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/incontrol-systems/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/connectivity/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/connected-navigation-pro.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/driver-safety-and-assistance/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/terms-and-conditions.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/touch-faqs.html",
+      "count": 12,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/pivi-faqs.html",
+      "count": 9,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/touch-pro-setup-guide/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/map-updates/pivi.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/touch-pro-setup-guide/connecting-to-inbuilt-apps.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/software-updates/pivi.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/pivi-pro-setup-guide/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/handbooks-guides/xf-library.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/handbooks-guides/xj-library.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/handbooks-guides/xk-library.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/maintenance/tyres.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/pivi-pro-setup-guide.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/infotainment-systems/infotainment/software-updates/touch-pro.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/servicing/jaguar-service-plans.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/maintenance/genuine-parts/remanufactured-genuine-parts.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/pivi/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/map-updates.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/software-updates/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/subscriptions/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/system-settings-and-controls-faqs.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/entertainment-and-media-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/apps-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/navigation-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/security-and-safety-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/wi-fi-connectivity-and-data-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/software-updates-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/support/subscriptions-faqs.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/partnerships/jaguar-x-attitude.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/jaguar-range/i-pace/small-businesses.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/driver-assistance/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/incontrol-systems/meridian.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/connectivity/online-pack.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/connectivity/smartphone-pack.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/connectivity/remote-pack.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/driver-safety-and-assistance/driving-assistance.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/incontrol/driver-safety-and-assistance/parking-assistance.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/owners/incontrol/subscriptions/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/experience-jaguar/ice-academy-sweden/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/start-up-guide/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/activating-your-apps/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/activating-your-apps/setting-up-apple-car-play.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/activating-your-apps/setting-up-android-auto.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/activating-your-apps/installing-incontrol-apps.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguar.co.uk/ownership/incontrol/touch/set-up-and-user-guides/activating-your-apps/accessing-live-apps.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    }
+  ]
+}

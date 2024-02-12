@@ -1,0 +1,917 @@
+{
+  "total": 176,
+  "uncrawled": 0,
+  "with.tertiary-link": [
+    {
+      "href": "https://jaguarusa.com/ownership/choose-your-engine/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/electric-vehicles/faqs.html",
+      "count": 9,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/software-update/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/siriusxm/index.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/jaguar-remote-skill.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/amazon-alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/software-updates/pivi.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/diesel-exhaust-fluid.html",
+      "count": 5,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/software-update/3g-sunset-faq.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/software-update/alexa.html",
+      "count": 3,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    }
+  ],
+  "with.tertiary-cta": [
+    {
+      "href": "https://jaguarusa.com/current-offers/f-pace-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/xf-offers.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/f-type-offers.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    }
+  ],
+  "withbutton.secondary-cta": [],
+  "withbutton.secondary-link": [],
+  "with.secondary-cta:not(button)": [],
+  "with.secondary-link:not(button)": [
+    {
+      "href": "https://jaguarusa.com/all-models/f-pace/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/e-pace/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/f-type/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/xf/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/electric-vehicles/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/special-vehicle-operations/f-type-zp-edition.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/special-vehicle-operations/f-pace-svr.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/special-vehicle-operations/jaguar-f-pace-svr-edition-1988.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/special-vehicle-operations/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/heritage/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/build-yours/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/certified-preowned/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/fleet-and-business/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/choose-your-engine/index.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/experience-jaguar/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/software-updates/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/subscriptions.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/remote-app.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/emergency-and-security-features.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/map-updates/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/ev-ownership/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/ev-ownership/setting-up-your-ev.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/ev-ownership/how-to-charge-your-ev.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/elitecare.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/airbag-recall/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/genuine-parts/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/roadside-assistance.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/contact-us/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/jaguar-racing/index.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "carousel",
+        "contentcard",
+        "accolade"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/jaguar-racing/race-calendar-and-standings.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/jaguar-racing/our-partners.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/jaguar-racing/racing-dna.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/index.html",
+      "count": 12,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/type/performance-suvs.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/type/all-electric.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/type/sports-cars.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/type/sedans.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/owners/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/owners/service-warranties/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/news/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/market-selector.html",
+      "count": 1,
+      "components": [
+        "marketselector"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/sitemap.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/f-pace/models/index.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/f-pace/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/certified-preowned/search-inventory.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/e-pace/models/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/e-pace/specifications/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/models/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/specifications/index.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/f-type/models/index.html",
+      "count": 9,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/f-type/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/xf/models/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "derivative",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/xf/specifications/index.html",
+      "count": 3,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/electric-vehicles/installation.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/about-jaguar/special-vehicle-operations/sv-specialists.html",
+      "count": 26,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/f-pace-offers.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/xf-offers.html",
+      "count": 8,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/current-offers/f-type-offers.html",
+      "count": 16,
+      "components": [
+        "footercontainer",
+        "offers"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/accessories/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/siriusxm/index.html",
+      "count": 4,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/terms-and-conditions.html",
+      "count": 6,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/touch-pro-setup-guide/index.html",
+      "count": 10,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/map-updates/pivi.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/touch-pro-setup-guide/connecting-to-inbuilt-apps.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/software-updates/pivi.html",
+      "count": 2,
+      "components": [
+        "faqs",
+        "footercontainer",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/pivi-pro-setup-guide/index.html",
+      "count": 7,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/infotainment-systems/infotainment/software-updates/touch-pro.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard",
+        "signpostvehiclesummary"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/servicing.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/airbag-recall/espanol.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "article"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/diesel-exhaust-fluid.html",
+      "count": 1,
+      "components": [
+        "faqs",
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/vehicle-eligibility-transfers.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/ownership/service-warranties/genuine-parts/remanufactured-genuine-parts.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/electrification/race-to-road/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/index.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/all-models/i-pace/electric-vehicles/ev-incentives.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/electric-cars/index.html",
+      "count": 4,
+      "components": [
+        "footercontainer",
+        "accolade",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/incontrol-protect.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol/infotainment.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol/connectivity/index.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol/driver-assistance/index.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol/connectivity/incontrol-apps.html",
+      "count": 2,
+      "components": [
+        "footercontainer"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/stolen-vehicle-locator.html",
+      "count": 5,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/incontrol-apps.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/pro-services.html",
+      "count": 18,
+      "components": [
+        "footercontainer",
+        "page-filter-dropdown",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/incontrol-map-updates.html",
+      "count": 2,
+      "components": [
+        "footercontainer",
+        "contentcard"
+      ]
+    },
+    {
+      "href": "https://jaguarusa.com/incontrol/incontrol-user-guide/faq-stolen-vehicle-locator.html",
+      "count": 1,
+      "components": [
+        "footercontainer",
+        "carousel"
+      ]
+    }
+  ]
+}
